@@ -8,10 +8,10 @@
 ### 🔥 About Me
 
 - 🎓 **Education:** Bachelor's Degree in Mechatronics - HCMUT (2020)
-- 💼 **Experience:**
-  - **TMA Solutions (2019 - 2020)** - Manual Tester
+- 💼 **Experience:** 
   - **Freelance Developer (2023 - Present)** - Building web applications for clients
   - **Business (2021 - 2023)** - Managed Music Lounge "Màu Của Gió"
+  -  - **TMA Solutions (2019 - 2020)** - Manual Tester
 - 🌍 **Languages:** English (TOEIC 555), French (DELF B1)
 
 ---
@@ -20,7 +20,8 @@
 
 **Languages:** JavaScript, TypeScript, C/C++  
 **Frontend:** React.js, Next.js, Tailwind CSS  
-**Backend:** NestJS, Node.js, MongoDB  
+**Backend:** NestJS, Node.js, 
+**Database:** MongoDB  
 **Tools & Platforms:** GitHub, Arduino, MATLAB
 
 ---
@@ -51,8 +52,8 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuyBoon&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuyBoon&show_icons=true&theme=react)
 
 ---
 
