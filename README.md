@@ -11,7 +11,7 @@
 - 💼 **Experience:** 
   - **Freelance Developer (2023 - Present)** - Building web applications for clients
   - **Business (2021 - 2023)** - Managed Music Lounge "Màu Của Gió"
-  -  - **TMA Solutions (2019 - 2020)** - Manual Tester
+  - **TMA Solutions (2019 - 2020)** - Manual Tester
 - 🌍 **Languages:** English (TOEIC 555), French (DELF B1)
 
 ---
@@ -20,7 +20,7 @@
 
 **Languages:** JavaScript, TypeScript, C/C++  
 **Frontend:** React.js, Next.js, Tailwind CSS  
-**Backend:** NestJS, Node.js, 
+**Backend:** NestJS, Node.js, NestJS
 **Database:** MongoDB  
 **Tools & Platforms:** GitHub, Arduino, MATLAB
 
@@ -62,6 +62,6 @@
 📍 **Location:** Binh Thanh District, HCM City  
 📧 **Email:** huyht0704@gmail.com  
 📞 **Phone:** +84 984 181 304  
-🌐 **Portfolio:** [martinportfolio.com](https://martinportfolio.com)
+🌐 **Portfolio:** [huybooncode.com](https://huybooncode.vercel.app)
 
 💻 Let's connect and build something amazing! 🚀
