@@ -1,31 +1,40 @@
 ### Hi there, I'm NhatHuy Hoang! 👋
 
-🚀 **Frontend Developer | Aspiring Full Stack Developer** 🎨 Passionate about crafting intuitive UI/UX and building high-performance web applications using the **Next.js Ecosystem**.
+🚀 **Frontend Developer | Aspiring Full-Stack Engineer** Passionate about crafting intuitive UI/UX, building high-performance web applications, and architecting scalable systems using the **Next.js Ecosystem**.
 
 ---
 
 ### 🔥 About Me
 
-- 💻 **Focus:** Transforming complex requirements into responsive, user-friendly web interfaces.
-- 💼 **Experience:** - **Freelance Developer (2023 - Present):** Intensive experience building commercial websites (E-commerce, Booking Systems, Corporate Sites) using Next.js & MongoDB.
-  - **Previous Background:** Mechatronics Engineer (HCMUT) & Business Operator. This diverse background gives me a strong problem-solving mindset and business acumen.
+- 💻 **Focus:** Transforming complex business requirements into responsive, user-friendly, and SEO-optimized web interfaces.
+- 🚀 **Experience (2 Years):** Intensive hands-on experience building end-to-end commercial platforms—including E-commerce, Booking Systems, and Admin Dashboards.
+- 🧠 **Unique Background:** Graduated as a **Mechatronics Engineer (HCMUT)** with past experience as a **Manual Tester** and **Business Owner**. This diverse background equips me with a strong system-oriented mindset, an obsession with bug-free UI/UX, and a deep understanding of real-world business logic.
+- 🌱 **Currently Learning:** Deepening my backend architecture skills with **NestJS**, **Docker**, and **PostgreSQL** to transition fully into Full-Stack Development.
 - 🌍 **Languages:** English (TOEIC 555 - Reading Tech Docs), French (DELF B1).
 
 ---
 
-### 🚀 Skills & Technologies
+### 🛠 Skills & Technologies
 
-**Frontend Core:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+**Frontend Core & State Management:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 **Backend Integration & Database:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=flat&logo=next.js&logoColor=white)
 
 **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
@@ -33,48 +42,70 @@
 
 ### 🌟 Featured Projects
 
-#### **1. Tân Kiến Trúc – Architecture & Construction Ecosystem**
-🏢 A high-end minimalist interface for showcasing architectural portfolios.
-- **Tech:** Next.js, TypeScript, Tailwind CSS, Framer Motion.
-- **Highlights:** Smooth page transitions, visual hierarchy optimization.
-- **Link:** [tankientruc.vn](https://tankientruc.vn)
+#### **1. Amazing Phú Quốc**
+🌴 A scalable travel booking website supporting multi-language content.
+- **Tech:** React, Node.js, Tailwind CSS, MongoDB, Cloudinary.
+- **Status:** Completed
+- **Link:** [hellophuquoc.vn](https://hellophuquoc.vn/)
 
-#### **2. Varia Hotel – Booking Management System**
-b🏨 A comprehensive booking platform for a boutique hotel with real-time availability check.
-- **Tech:** Next.js, MongoDB, NextAuth, React Datepicker.
-- **Highlights:** Booking engine, Admin Dashboard for staff, i18n support.
-- **Link:** *(In Development)*
+#### **2. Varia Hotel**
+🏨 A comprehensive booking management platform for a boutique hotel.
+- **Tech:** React, Next.js, TypeScript, Tailwind CSS.
+- **Status:** In Progress
+- **Link:** [varia-nine.vercel.app](https://varia-nine.vercel.app/)
 
-#### **3. Amazing Phu Quoc – Tourism Platform**
-travel🌴 A travel booking website supporting multi-language content.
-- **Tech:** Next.js, Next-Intl, MongoDB, Cloudinary.
-- **Highlights:** Tour management system, SEO optimization.
-- **Link:** [hellophuquoc.vn](https://hellophuquoc.vn)
+#### **3. Kyles Skincare**
+✨ A highly optimized e-commerce landing page for skincare products.
+- **Tech:** React, Next.js, TypeScript, Tailwind CSS.
+- **Status:** Completed
+- **Link:** [kyleskincare.vn](https://kyleskincare.vn/)
 
-#### **4. Mk Nails & Spa**
-💅 A beauty services SPA with a custom CMS for pricing management.
-- **Tech:** Next.js, Tailwind, NextAuth, MongoDB.
-- **Link:** [mknailsportdover.com](https://www.mknailsportdover.com/)
+#### **4. Thùy Dương Spa**
+💅 A modern interface and booking system for a beauty spa.
+- **Tech:** React, Next.js, Tailwind CSS.
+- **Status:** In Progress
+- **Link:** [spathuyduong.vn/vi](https://spathuyduong.vn/vi)
 
-#### **5. MeReview – Personal Blog**
-📝 A review platform covering travel, technology, and language learning.
-- **Tech:** Next.js, MongoDB, Google Cloudinary.
-- **Link:** [mereview.vercel.app](https://mereview.vercel.app/vi)
+#### **5. Kim Vinh Store (E-commerce)**
+🛒 A fast and responsive online storefront for retail.
+- **Tech:** React, Next.js, Tailwind CSS.
+- **Status:** Completed
+- **Link:** [kimvinhstore.vercel.app](https://kimvinhstore.vercel.app/)
+
+#### **6. Phú Quốc's Travel (Hidden Sun)**
+☀️ A dynamic tourism and service discovery platform.
+- **Tech:** TypeScript, Node.js, Tailwind CSS.
+- **Status:** Completed
+- **Link:** [hiddensunphuquoc.vercel.app](https://hiddensunphuquoc.vercel.app/)
+
+#### **7. MK-Nails & Spa**
+🌸 A beauty services platform with a modern, elegant UI.
+- **Tech:** React, TypeScript, Tailwind CSS.
+- **Status:** Completed
+- **Link:** [mknailsportdover.com](https://mknailsportdover.com/)
+
+#### **8. MeReview Blog**
+📝 A full-stack personal blogging and review platform.
+- **Tech:** Next.js, MongoDB, Tailwind CSS.
+- **Status:** Completed
+- **Link:** [mereview.vercel.app/vi](https://mereview.vercel.app/vi)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuyBoon&theme=react&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuyBoon&show_icons=true&theme=react&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyBoon&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HuyBoon&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
 ---
 
-### 📫 Contact Me
+### 📫 Let's Connect!
 
 📍 **Location:** Binh Thanh District, HCM City  
 📧 **Email:** huybooncode74@gmail.com  
 📞 **Phone:** (+84) 984 181 304  
-🌐 **Portfolio:** [huybooncode.dhutech.com](https://huybooncode.dhutech.com)
+🌐 **Portfolio:** [huyboon.tech](https://huyboon.tech/en/portfolio)
 
-💻 *Open to freelance opportunities and full-time Junior/Middle Frontend Developer roles!* 🚀
+💻 *Always open to discussing new opportunities, from freelance projects to full-time Middle Frontend / Full-Stack roles!* 🚀
