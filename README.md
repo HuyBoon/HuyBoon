@@ -7,7 +7,7 @@
 ### 🔥 About Me
 
 - 💻 **Focus:** Transforming complex business requirements into responsive, user-friendly, and SEO-optimized web interfaces.
-- 🚀 **Experience (2 Years):** Intensive hands-on experience building end-to-end commercial platforms—including E-commerce, Booking Systems, and Admin Dashboards.
+- 🚀 **Experience (3 Years):** Intensive hands-on experience building end-to-end commercial platforms—including E-commerce, Booking Systems, and Admin Dashboards.
 - 🧠 **Unique Background:** Graduated as a **Mechatronics Engineer (HCMUT)** with past experience as a **Manual Tester** and **Business Owner**. This diverse background equips me with a strong system-oriented mindset, an obsession with bug-free UI/UX, and a deep understanding of real-world business logic.
 - 🌱 **Currently Learning:** Deepening my backend architecture skills with **NestJS**, **Docker**, and **PostgreSQL** to transition fully into Full-Stack Development.
 - 🌍 **Languages:** English (TOEIC 555 - Reading Tech Docs), French (DELF B1).
