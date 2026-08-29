@@ -1,6 +1,6 @@
 ### Hi there, I'm NhatHuy Hoang! 👋
 
-🚀 **Frontend Developer | Aspiring Full-Stack Engineer** Passionate about crafting intuitive UI/UX, building high-performance web applications, and architecting scalable systems using the **Next.js Ecosystem**.
+🚀 **Web Developer | Aspiring Full-Stack Engineer** Passionate about crafting intuitive UI/UX, building high-performance web applications, and architecting scalable systems using the **Next.js Ecosystem**.
 
 ---
 
